@@ -1,0 +1,123 @@
+lien vers le figma :
+https://www.figma.com/proto/NHBhFmIbY53L4OXpRY1nSV/Untitled?node-id=0-1&t=zki9vlRbtF9BFFpv-1
+
+tp de ce matin :
+Facile à comprendre / faire 
+
+    Navigation simple : pages principales (Accueil, Menu, Galerie, Contact). 
+
+    Site responsive, adapté au mobile. 
+
+    Informations essentielles présentes (menu, contact, description du restaurant). 
+
+    Contrastes lisibles → bon niveau d’accessibilité. 
+
+Difficile ou confus 
+
+    Logo trop petit (restaurant + réseaux sociaux). 
+
+    Taille de police du header trop faible. 
+
+    Navigation compacte → retour à la ligne qui rend le header trop grand. 
+
+    Cookie banner très discret. 
+
+    Pas de possibilité de réserver directement en ligne (uniquement appel). 
+
+    Numéro de téléphone uniquement en bas de page (pas mis en avant). 
+
+    Galerie confuse : header devient blanc soudainement, images sans contexte, et certains plats ne figurent pas dans le menu. 
+
+    Page « Avis » affiche seulement 3 témoignages, sans lien ni note Google. 
+
+    Menu non à jour → réduit la confiance. 
+
+    Trop d’images différentes de plats → impression que certaines viennent d’ailleurs (pas authentiques). 
+
+Impression générale 
+
+    Design minimaliste, « clean » mais nécessite beaucoup de scroll. 
+
+    Bonne ambiance générale, reflète plutôt bien l’identité du restaurant. 
+
+    Site inspire confiance, mais les incohérences (menu non actualisé, galerie douteuse) nuisent à la crédibilité. 
+
+    Ambiance visuelle soignée, mais peut paraître trop générique (images trop parfaites). 
+
+ 
+
+Travail en binômes – Analyse de l’utilité (45 min) 
+
+1 – Quel problème ce site résout-il ? 
+
+    Présenter le restaurant et son concept. 
+
+    Mettre en avant la carte et les plats. 
+
+    Fournir les coordonnées pour contacter et réserver (par téléphone). 
+
+    Valoriser le restaurant par des photos et des avis. 
+
+2 – Répond-il bien aux besoins principaux des utilisateurs ? 
+
+    Menus clairs ? → Assez clairs, mais pas à jour, pas catégorisés (pas de sous-menu). 
+
+    Réservation simple ? → Non, uniquement via appel, pas de formulaire ni bouton « Réserver ». 
+
+    Horaires visibles ? → Oui, accessibles en bas de page. 
+
+    Accessibilité mobile ? → Oui, site responsive et contrastes corrects. 
+
+ 
+
+Classement des fonctionnalités 
+
+Répond bien aux besoins  
+
+    Présentation du concept du restaurant. 
+
+    Page d’accueil qui attire visuellement. 
+
+    Présentation du menu (même si améliorable). 
+
+    Coordonnées disponibles (téléphone). 
+
+    Accessibilité mobile correcte. 
+
+Ne répond pas ou mal  
+
+    Menu pas à jour et non organisé par catégories. 
+
+    Réservation : pas de solution intégrée (uniquement appel). 
+
+    Téléphone peu visible (uniquement en footer, pas en header). 
+
+    Galerie confuse (images sans contexte, trop nombreuses, certaines incohérentes avec la carte). 
+
+    Avis trop limités, pas de note Google accessible. 
+
+    Logo trop petit, manque de cohérence graphique (logo de la page ≠ identité du restaurant). 
+
+    Header trop chargé (compactage des liens + police trop petite). 
+
+1. Accéder facilement au menu et aux prix 
+
+    Les visiteurs veulent voir rapidement ce que le restaurant propose (plats, boissons, desserts) et avoir une idée des prix. 
+
+    C’est la première raison pour laquelle on consulte un site de restaurant. 
+
+2. Pouvoir réserver ou contacter sans difficulté 
+
+    Un bouton « Réserver » clair ou au moins un numéro de téléphone bien visible. 
+
+    Le processus doit être simple, sans avoir à chercher dans le footer. 
+
+3. Confiance et ambiance 
+
+    Avoir un aperçu de l’expérience au restaurant (photos authentiques, avis clients fiables, informations à jour). 
+
+    Les gens veulent être rassurés : qualité des plats, ambiance, sérieux de l’établissement. 
+
+Les utilisateurs ont besoin de consulter facilement le menu à jour, visualiser les plats et réserver rapidement,
+mais rencontrent un site avec un menu non actualisé, une galerie confuse, un bouton de réservation absent et un numéro de téléphone peu visible, 
+ce qui les empêche d’avoir confiance dans le restaurant et de planifier leur visite de manière simple et efficace. 
